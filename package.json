@@ -1,0 +1,37 @@
+{
+  "name": "barber",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/js": "^7.1.96",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/firebase": "^8.2.2",
+    "console": "^0.7.2",
+    "core-js": "^3.25.3",
+    "crypto-js": "^4.1.1",
+    "file-saver": "^2.0.5",
+    "firebase": "^9.17.1",
+    "nuxt": "^2.15.8",
+    "package": "^1.0.1",
+    "vue": "^2.7.14",
+    "vue-server-renderer": "^2.7.14",
+    "vue-template-compiler": "^2.7.14",
+    "vuetify": "^2.6.10",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "autoprefixer": "^10.4.13",
+    "vue-promptpay-qr": "^1.0.6"
+  },
+  "description": "a really cool app",
+  "engines": {
+    "node": "16.18.1"
+  }
+}
