@@ -1,4 +1,14 @@
-# barber
+# barber Link:https://projectbarber64-9435e.web.app/login/
+(เข้าไปลองเล่นระบบจองคิวได้ครับ Add Line : @920wxyha)
+
+admin
+User:admin
+Pass:admin
+
+barber
+User:barber
+Pass:barber
+
 ระบบจองคิวร้านตัดผมผ่านLine
 ## Build Setup
 
